@@ -19,7 +19,7 @@ const [seed, setSeed] = useState('');
 
     return !addNewChat ? (
         <div className="SidebarChat">
-            <Avatar src={`https://avatars.dicebear.com/api/female/${seed}.svg`} />
+            <Avatar src={`https://avatars.dicebear.com/api/avataaars/${seed}.svg`} />
             <div className="SidebarChat__info">
                 <h2>Room name</h2>
                 <p>Last message...</p>
