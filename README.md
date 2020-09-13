@@ -22,4 +22,4 @@ $ npm start
 * Firebase Firestory Realtime db
 
 ## Demo 
-![GIF](https://github.com/anna-reirl/WhatsApp-project/blob/master/2020-09-13%2020-33-33%20(1).gif)
+![GIF](https://github.com/anna-reirl/WhatsApp-project/blob/master/2020-09-13%2020-52-24.gif)
