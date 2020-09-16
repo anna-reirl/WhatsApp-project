@@ -8,7 +8,7 @@
 You must have [Node.js](https://nodejs.org) installed on your computer
 
 ```bash
-git clone https://github.com/anna-reirl/AMAZON-project
+git clone https://github.com/anna-reirl/WhatsApp-project
 $ npm install 
 $ npm start
 ```
